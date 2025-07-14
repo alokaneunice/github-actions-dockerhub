@@ -94,7 +94,7 @@ If correctly configured, you should see your AWS *Account ID, User ID, and ARN*
 
 
 
-*📌 Step 4: Github actions troiggers output*
+*📌 Step 4: Github actions triggers output*
 
 <img width="2546" height="938" alt="Image" src="https://github.com/user-attachments/assets/324135c7-b519-48f9-8e32-0c796f5a20f2" />
 
